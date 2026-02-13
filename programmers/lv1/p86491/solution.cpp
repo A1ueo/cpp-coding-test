@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 최소직사각형
 int solution(vector<vector<int>> sizes)
 {
     int answer = 0;

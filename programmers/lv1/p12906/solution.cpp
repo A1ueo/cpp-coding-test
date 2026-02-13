@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 같은 숫자는 싫어
 vector<int> solution(vector<int> arr)
 {
     vector<int> answer;

@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 모의고사
 vector<int> solution(vector<int> answers) {
   vector<int> answer;
 

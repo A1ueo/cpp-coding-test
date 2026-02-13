@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// K번째수
 vector<int> solution(vector<int> array, vector<vector<int>> commands)
 {
     vector<int> answer;

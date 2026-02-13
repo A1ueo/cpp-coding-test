@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// 폰켓몬
 int solution(vector<int> nums)
 {
     int answer = 0;
